@@ -1,5 +1,5 @@
 Hey, I’m Jeremiah Walters
-Senior Software Engineer at Microsoft building Azure reliability systems and AI-assisted engineering platforms.
+Senior Software Engineer @Microsoft. Building AI agent platforms and the evaluation systems that keep them honest.
 
 ## Connect with Jeremiah Walters
 
